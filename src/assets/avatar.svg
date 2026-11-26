@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Developer Avatar">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+    <linearGradient id="shirtGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="36" fill="url(#bgGrad)" />
+  <circle cx="195" cy="48" r="28" fill="#ffffff" fill-opacity="0.12" />
+  <circle cx="42" cy="192" r="36" fill="#ffffff" fill-opacity="0.1" />
+  <path d="M44 240 C44 182 76 164 120 164 C164 164 196 182 196 240 Z" fill="url(#shirtGrad)" />
+  <rect x="104" y="138" width="32" height="32" rx="14" fill="#f1c29b" />
+  <circle cx="120" cy="102" r="44" fill="#f5cca8" />
+  <path d="M75 98 C75 64 96 48 122 48 C150 48 166 66 165 98 C155 78 136 72 116 74 C96 76 84 84 75 98 Z" fill="#0f172a" />
+  <circle cx="104" cy="104" r="4.5" fill="#0f172a" />
+  <circle cx="136" cy="104" r="4.5" fill="#0f172a" />
+  <path d="M106 122 Q120 133 134 122" fill="none" stroke="#9a5b3c" stroke-width="3.5" stroke-linecap="round" />
+  <rect x="82" y="188" width="76" height="36" rx="8" fill="#334155" />
+  <text x="120" y="211" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#38bdf8">&lt;React /&gt;</text>
+</svg>
